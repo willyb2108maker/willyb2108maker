@@ -1,80 +1,63 @@
-<!-- ═══════════════ BANNER ═══════════════ -->
+<h1 align="center">William Bui</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=willyb2108maker&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Automation%20%7C%20Scripting%20%7C%20Code&descAlignY=55&descSize=18" />
+  <b>Website Designer</b> &nbsp;·&nbsp; <b>Fresher Software Engineer</b>
 </p>
 
-<!-- ═══════════════ TYPING SVG ═══════════════ -->
 <p align="center">
-  <a href="https://github.com/willyb2108maker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+willyb2108maker+%F0%9F%91%8B;Automation+%26+Scripting+Enthusiast;Bi%E1%BA%BFn+m%E1%BB%8Di+th%E1%BB%A9+th%C3%A0nh+t%E1%BB%B1+%C4%91%E1%BB%99ng+%E2%9A%A1" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/willambui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/haterjk21">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://steamcommunity.com/id/wlmhere/">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="https://open.spotify.com/user/31vffuz6rm6sb64pa44vcu6j43qy">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
-<!-- ═══════════════ BADGE HÀNG ĐẦU ═══════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=willyb2108maker&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/willyb2108maker?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Automation-ff69b4?style=for-the-badge" alt="focus" />
+<br>
+
+## About
+
+I design and build for the web — clean interfaces on the front, solid logic underneath.
+Currently sharpening my craft as a software engineer, one commit at a time.
+
+<br>
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/AutoHotkey-1a1a1a?style=flat-square&logo=autohotkey&logoColor=8CC63F" />
 </p>
 
----
+<br>
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,cpp,cs,git,github,vscode,docker,linux,mysql&theme=dark&perline=8" />
-</p>
+## Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=willyb2108maker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyb2108maker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=willyb2108maker&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willyb2108maker&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=willyb2108maker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=8b949e&title_color=e6edf3&text_color=8b949e&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyb2108maker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=willyb2108maker&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=willyb2108maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="streak" />
 </p>
 
----
-
-## 📫 Liên hệ
+<br>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR_FB">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@YOUR_YT">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <sub>Thanks for stopping by.</sub>
 </p>
