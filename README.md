@@ -19,10 +19,10 @@ Designer turned engineer. I care about interfaces that feel effortless and the c
 Currently building my foundation as a software engineer and taking on freelance web design work.
 
 ```yaml
-role:      Website Designer / Fresher Software Engineer
-focus:     Frontend engineering, UI/UX, automation
-learning:  TypeScript, React, system design
-open_to:   Internships, junior roles, freelance projects
+role:      Fresher Software Engineer
+focus:     Backend engineering
+learning:  TypeScript, React
+open_to:   class in 2027
 ```
 
 ---
